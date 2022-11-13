@@ -3,7 +3,7 @@
 - 保留最后标签页（防止关闭最后一个标签页时关闭浏览器，点X不行）
 - 鼠标悬停标签栏滚动
 - 按住右键时滚轮滚动标签栏
-- 便携设计，程序放在App目录，数据放在Data目录（不兼容原版数据，可以重装系统换电脑不丢数据）
+- 便携设计，程序放在App目录，数据放在User Data目录（不兼容原版数据，可以重装系统换电脑不丢数据）
 - 移除更新错误警告（因为是绿色版没有自动更新功能）
 # 获取
 采用GitHub Actions自动编译发布，下载地址：[https://nightly.link/sunchao0606/chrome_plus-1/workflows/build/main](https://nightly.link/sunchao0606/chrome_plus-1/workflows/build/main)
